@@ -1,8 +1,8 @@
-type FooBarObj2 = {
+type FooBarObj_2 = {
   foo: number;
   bar: string;
 };
-const obj2: FooBarObj2 = {
+const obj2: FooBarObj_2 = {
   foo: 123,
   bar: "Hello, World!",
 };
